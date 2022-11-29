@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>281522449283-i16nk6v6gcmocererftr72j3fe5u2ta1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.281522449283-i16nk6v6gcmocererftr72j3fe5u2ta1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCGcOcpWpa4Q6l3wCZs1d2HRzw0_1lkxcU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>281522449283</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.misknet.asalniProvider</string>
+	<key>PROJECT_ID</key>
+	<string>asalni</string>
+	<key>STORAGE_BUCKET</key>
+	<string>asalni.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:281522449283:ios:dfa3fac4c602113ad4e4b6</string>
+	<key>DATABASE_URL</key>
+	<string>https://asalni-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
